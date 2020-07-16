@@ -382,7 +382,7 @@ hr {
 	.section {
 		/*background-color: #FFFFFF;*/
 		min-height: 100vh;
-		margin-top: -30px;
+		margin-top: 10px;
 	}
 
 	.prevbtn {
@@ -403,24 +403,30 @@ hr {
 	}
 
 	footer {
-		margin-top: 500px;
-		min-height: 110vh;
+		margin-top: 150px;
+		min-height: 92vh;
 	}
 
 	footer img {
-		height: 170px;
-		margin-left: 60px;
+		height: 140px;
+		margin-left: 120px;
 	}
 	.footer-wrapper {
-		margin-top: 30px;
+		margin-top: 10px;
 		padding: 
 	}
 
 	.footer-wrapper h3 {
-		font-size: 1.7rem;
+		font-size: 1.4rem;
+		padding: 0 17px;
+	}
+
+	.footer-wrapper p{
+		font-size: .9rem;
+		padding: 0 17px;
 	}
 	.sub-wrapper {
-		padding: 2px 0px;
+		padding: 2px 7px;
 	}
 
 	.copyright {
