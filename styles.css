@@ -9,7 +9,7 @@
 }
 
 body {
-	/*overflow-x: hidden;*/
+	overflow-x: hidden;
 }
 .wrapper{
 	width: 100%;
@@ -192,7 +192,7 @@ header p {
 
 footer {
 	background-color: #24116A;
-	min-height: 80vh;
+	min-height: 85vh;
 	margin-top: 50px;
 	color: #FFFFFF;
 	font-family: 'Roboto Condensed', sans-serif;
@@ -354,7 +354,6 @@ hr {
 	}
 
 	.section {
-		/*background-color: #FFFFFF;*/
 		min-height: 100vh;
 		margin-top: -30px;
 	}
@@ -364,13 +363,13 @@ hr {
 	}
 
 	footer {
-		margin-top: -50px;
-		min-height: 100vh;
+		margin-top: -30px;
+		min-height: 90vh;
 	}
 
 	footer img {
 		height: 140px;
-		margin-left: 60px;
+		margin-left: 120px;
 	}
 	.footer-wrapper {
 		margin-top: 20px;
@@ -378,10 +377,16 @@ hr {
 	}
 
 	.footer-wrapper h3 {
-		font-size: 1.7rem;
+		font-size: 1.4rem;
+		padding: 0 17px;
+	}
+
+	.footer-wrapper p{
+		font-size: .9rem;
+		padding: 0 17px;
 	}
 	.sub-wrapper {
-		padding: 2px 0px;
+		padding: 2px 7px;
 	}
 
 	.copyright {
