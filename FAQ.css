@@ -175,7 +175,7 @@ header input {
 
 .questions {
 	background-color: #E4EDF2;
-	padding: 50px 35px;
+	padding: 80px 35px;
 	width: 85%;
 	height: 72%;
 	margin: 0px auto;
@@ -417,7 +417,7 @@ hr {
 
 	.triangle {
 		left: 8px;
-		top: 710px;
+		top: 705px;
 	}
 
 	.questions span {
