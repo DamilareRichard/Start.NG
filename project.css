@@ -361,7 +361,6 @@ hr {
 	.prevbtn {
 		margin-left: 100px;
 		width: 70%;
-		/*line-height: 80px;*/
 	}
 	.prevbtn a i {
 		color: #000;
@@ -369,7 +368,7 @@ hr {
 
 	footer {
 		margin-top: 350px;
-		min-height: 90vh;
+		min-height: 95vh;
 		
 	}
 
