@@ -9,7 +9,7 @@
 }
 
 body {
-	overflow-x: hidden;
+	/*overflow-x: hidden;*/
 }
 .wrapper{
 	width: 100%;
@@ -107,8 +107,8 @@ header p {
 	
 }
 .section h1 {
-	line-height: 80px;
-	margin-top: 30px;
+	line-height: 70px;
+	margin-top: 20px;
 	text-align: center;
 	color: #24116A;
 }
@@ -193,7 +193,7 @@ header p {
 footer {
 	background-color: #24116A;
 	min-height: 80vh;
-	margin-top: 70px;
+	margin-top: 50px;
 	color: #FFFFFF;
 	font-family: 'Roboto Condensed', sans-serif;
 	
@@ -201,6 +201,7 @@ footer {
 
 footer img {
 	margin-left: 65px;
+	width: 150px;
 }
 
 .footer-wrapper {
@@ -257,6 +258,7 @@ hr {
 		padding: 0;
 		box-sizing: border-box;
 	}
+
 
 	.header-wrapper img {
 		margin-left: 20px;
@@ -362,17 +364,17 @@ hr {
 	}
 
 	footer {
-		margin-top: 0px;
-		min-height: 110vh;
+		margin-top: -50px;
+		min-height: 100vh;
 	}
 
 	footer img {
-		height: 170px;
+		height: 140px;
 		margin-left: 60px;
 	}
 	.footer-wrapper {
-		margin-top: 30px;
-		padding: 
+		margin-top: 20px;
+		 
 	}
 
 	.footer-wrapper h3 {

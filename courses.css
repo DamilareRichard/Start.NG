@@ -106,8 +106,8 @@ header p {
 	
 }
 .section h1 {
-	line-height: 80px;
-	margin-top: 30px;
+	line-height: 70px;
+	margin-top: 20px;
 	text-align: center;
 	color: #24116A;
 	font-family: 'Roboto Condensed', sans-serif;
@@ -216,7 +216,7 @@ header p {
 
 footer {
 	background-color: #24116A;
-	min-height: 100vh;
+	min-height: 80vh;
 	margin-top: 400px;
 	color: #FFFFFF;
 	font-family: 'Roboto Condensed', sans-serif;
@@ -225,6 +225,7 @@ footer {
 
 footer img {
 	margin-left: 65px;
+	height: 150px;
 }
 
 .footer-wrapper {

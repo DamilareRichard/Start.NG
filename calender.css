@@ -164,7 +164,7 @@ header p {
 
 footer {
 	background-color: #24116A;
-	min-height: 100vh;
+	min-height: 80vh;
 	margin-top: 1100px;
 	color: #FFFFFF;
 	font-family: 'Roboto Condensed', sans-serif;
@@ -173,6 +173,7 @@ footer {
 
 footer img {
 	margin-left: 65px;
+	height: 150px;
 }
 
 .footer-wrapper {
