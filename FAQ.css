@@ -146,13 +146,14 @@ header input {
 .triangle {
 	overflow: hidden;
 	position: absolute;
-	left: 120px;
-	top: 750px;
+	left: 100px;
+	top: 740px;
 	border-radius: 20%;
 	transform: translateY(50%) rotate(30deg) skewY(30deg) scaleX(.866);
 	cursor: pointer;
 	pointer-events: none;
 	z-index: 5;
+
 } 
 
 .triangle:before, .triangle:after {
@@ -177,9 +178,9 @@ header input {
 	padding: 50px 35px;
 	width: 85%;
 	height: 72%;
-	margin: 30px auto;
+	margin: 0px auto;
 	border-radius: 10px;
-	z-index: 1;
+	z-index: 7;
 }
 
 .questions span {
@@ -215,6 +216,7 @@ header input {
 	width: 60%;
 	height: 40%;
 	margin-left: 250px;
+	margin-top: 40px;
 	font-family: 'Roboto Condensed', sans-serif;
 
 }
@@ -387,7 +389,7 @@ hr {
 	}
 
 	header input {
-		margin-left: 40px;
+		margin-left: 45px;
 		margin-top: 20px;
 		width: 70%;
 	}
@@ -400,9 +402,10 @@ hr {
 		}
 
 	.questions {
+
 		margin: 8px;
 		width: 95%;
-		height: 140%;
+		height: 130%;
 	}
 	.mywrapper h4 {
 		font-size: 18px;
@@ -414,7 +417,7 @@ hr {
 
 	.triangle {
 		left: 8px;
-		top: 720px;
+		top: 710px;
 	}
 
 	.questions span {
@@ -422,6 +425,7 @@ hr {
 	}
 
 	.questions p {
+
 		width: 80%;
 	}
 	.questions i {
@@ -438,7 +442,7 @@ hr {
 	}
 
 	.reach-out-links {
-		padding: 0 10px;
+		padding: 10px 10px;
 	}
 
 	.reach-out-links li {
@@ -452,7 +456,7 @@ hr {
 	}
 
 	footer {
-		margin-top: 800px;
+		margin-top: 720px;
 		min-height: 105vh;
 	}
 

@@ -283,9 +283,9 @@ hr {
 	}
 
 	header p {
-		margin-top: ;
+		margin-top: 20px;
 		margin-left: 0px;
-		width: 100%;
+		width: 95%;
 	}
 
 	.nav-links {
@@ -332,9 +332,10 @@ hr {
 
 	}
 
-	.soft2 h2 {
+	.soft2 h2,
+	.soft h2 {
 		font-size: 1.2rem;
-		margin-left: 32px;
+		margin-left: 50px;
 	}
 
 	.soft li {
@@ -344,12 +345,17 @@ hr {
 	.section {
 		min-height: 100vh;
 		margin-top: -30px;
+		margin-left: -15px;
+	}
+
+	.section h1 {
+		margin-left: 18px;
 	}
 
 	.soft ul,
 	.soft2 ul {
-		width: 90%;
-		padding: 2px 11px;	
+		width: 95%;
+		padding: 2px 15px;	
 	}
 	.prevbtn {
 		margin-left: 100px;

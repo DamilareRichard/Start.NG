@@ -296,7 +296,7 @@ hr {
 	.first, .second, .third,
 	.fourth, .fifth, .sixth {
 		padding: 10px 20px;
-		width: 101%;
+		width: 96%;
 	}
 
 	.btn p {
@@ -307,12 +307,12 @@ hr {
 
 	.btn a {
 		margin-top: 10px;
-		margin-left: -30px;
+		margin-left: -15px;
 	}
 	
 
 	footer {
-		margin-top: 2700px;
+		margin-top: 2580px;
 		min-height: 105vh;
 	}
 
