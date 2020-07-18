@@ -326,6 +326,10 @@ hr {
  	outline: none;
  }
 
+ .change {
+ 	display: block;
+ }
+
 
  @media screen and (max-width: 767px) {
 
